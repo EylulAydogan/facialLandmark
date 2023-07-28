@@ -26,3 +26,12 @@ Kodu satır satır inceleyeceğim:
     Son olarak, görüntüyü OpenCV kullanarak giyinmiş yüz şablonuyla görüntüler.
 78-81.Sondaki kod bloğu, komut dosyasının doğrudan çalıştırılıp çalıştırılmadığını kontrol eder (modül olarak içe aktarılmaz).
       Görüntü yolunu ve yüz şablonu yolunu belirtir, ardından bu girişlerle "process_face_landmarks()" işlevini çağırır.
+
+![3D-facial-landmark-detection-scheme-in-our-framework-A-The-coarse-facial-landmark](https://github.com/EylulAydogan/facialLandmark/assets/102043836/e2929fa9-d9c9-4735-b264-186c2a930c9f)
+![FacialLandmarks1](https://github.com/EylulAydogan/facialLandmark/assets/102043836/bd1e462b-cc1a-405a-be38-c095ca7d4725)
+![png-transparent-nose-face-polygon-mesh-3d-modeling-three-dimensional-space-nose-template-3d-computer-graphics-people](https://github.com/EylulAydogan/facialLandmark/assets/102043836/1b1df574-adfa-4aae-a501-076844fbe9d1)
+
+
+
+
+
