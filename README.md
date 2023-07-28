@@ -25,4 +25,4 @@ Kodu satır satır inceleyeceğim:
     Yüzler algılanırsa, şekil öngörücüyü kullanarak yer işaretlerini çıkarır ve 3D yüz şablonunu yüze giydirmek için "dress_face_template()" işlevini çağırır.
     Son olarak, görüntüyü OpenCV kullanarak giyinmiş yüz şablonuyla görüntüler.
 78-81.Sondaki kod bloğu, komut dosyasının doğrudan çalıştırılıp çalıştırılmadığını kontrol eder (modül olarak içe aktarılmaz).
-20.  Görüntü yolunu ve yüz şablonu yolunu belirtir, ardından bu girişlerle "process_face_landmarks()" işlevini çağırır.
+      Görüntü yolunu ve yüz şablonu yolunu belirtir, ardından bu girişlerle "process_face_landmarks()" işlevini çağırır.
